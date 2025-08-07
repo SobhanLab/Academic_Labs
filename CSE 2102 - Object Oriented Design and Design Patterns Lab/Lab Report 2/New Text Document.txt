@@ -1,0 +1,13 @@
+1. Write a Java program to find the sum of all odd numbers in an array.
+
+2. Write a Java program that takes two arrays as input, calculate the index wise sum of these arrays, and store the result in a third array.
+
+3. Write a Java program to search an element in an array.
+
+4. Write a Java program to reverse the elements in an array without using a second array,
+
+5. Write a Java program to find the second highest element of an array.
+
+6. Write a Java program that calculates the average of an array, excluding the highest and lowest values in the array.
+
+7. Write a Java program to calculate the sum of all the prime numbers in a 20 array
